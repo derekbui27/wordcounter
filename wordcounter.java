@@ -1,6 +1,6 @@
 	import java.util.*;
 	import java.io.*;
-public class GroupProject2_6 {
+public class wordcounter {
 
 	public static void main(String[] args) throws FileNotFoundException {
 			Scanner input1 = new Scanner(new File("test"));
